@@ -17,7 +17,7 @@ Python program to visualize the Mandelbrot set uses Matplotlib. Generates the se
 
 # Mandelbrot Set Visualizer
 
-This is a basic Python program to visualize the famous Mandelbrot set using Matplotlib.
+This is a basic Python program to visualize the Mandelbrot set using Matplotlib.
 
 ## Usage
 

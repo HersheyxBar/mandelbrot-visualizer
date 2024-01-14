@@ -22,8 +22,6 @@ This is a basic Python program to visualize the famous Mandelbrot set using Matp
 
 To run the program, simply execute `mandelbrot.py`. This will open an interactive Matplotlib window showing the Mandelbrot set. 
 
-You can zoom in and pan around the set using the mouse and toolbar controls in the Matplotlib window. The program will continuously update the view with more detail as you zoom.
-
 The `mandelbrot.py` file contains the main implementation. The key functions are:
 
 - `mandelbrot` - Determines if a point is in the Mandelbrot set 

@@ -33,10 +33,10 @@ The `mandelbrot.py` functions:
 
 - Matplotlib
 - NumPy
-- 
+
 ## Install
 
-Run the following commands in your terminal: 
+Run the following command in your terminal: 
 `pip install matplotlib numpy`
 
 

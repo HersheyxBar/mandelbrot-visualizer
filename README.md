@@ -23,7 +23,7 @@ This is a basic Python program to visualize the Mandelbrot set using Matplotlib.
 
 To run the program, simply execute `mandelbrot.py`. This will open an interactive Matplotlib window showing the Mandelbrot set. 
 
-The `mandelbrot.py` file contains the main implementation. The key functions are:
+The `mandelbrot.py` functions:
 
 - `mandelbrot` - Determines if a point is in the Mandelbrot set 
 - `mandelbrot_set` - Renders the set as an image
@@ -33,8 +33,11 @@ The `mandelbrot.py` file contains the main implementation. The key functions are
 
 - Matplotlib
 - NumPy
+- 
+## Install
 
-Install requirements using `pip install matplotlib numpy`
+Run the following commands in your terminal: 
+`pip install matplotlib numpy`
 
 
 

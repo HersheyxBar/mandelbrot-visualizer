@@ -1,6 +1,6 @@
 # Mandelbrot-Visualizer
 
-Python program to visualize the Mandelbrot set uses Matplotlib. Generates the set and zooms and pans automatically to an interesting point in the plot.
+Python program to visualize the Mandelbrot set uses Matplotlib. Generates the set and zooms and pans automatically to a random but interesting point in the plot.
 
 ![image](https://github.com/HersheyxBar/mandelbrot-visualizer/assets/35160750/58051d51-93c8-46c6-ba5b-93e621caed73)
 

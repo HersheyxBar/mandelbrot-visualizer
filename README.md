@@ -25,9 +25,9 @@ To run the program, simply execute `mandelbrot.py`. This will open an interactiv
 
 The `mandelbrot.py` functions:
 
-- `mandelbrot` - Determines if a point is in the Mandelbrot set 
+- `mandelbrot` - Determines interesting point in the Mandelbrot set 
 - `mandelbrot_set` - Renders the set as an image
-- `random_zoom` - Generates random coordinates to zoom into
+- `random_zoom` - zooms into coordinates
 
 ## Requirements
 
